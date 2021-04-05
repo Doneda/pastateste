@@ -42,6 +42,7 @@ body{
 .box input[type = "text"]:focus{
     width: 280px;
     border-color: orange;
+    border-radius: 12px;
 
 }
 .box input[type = "text"]:hover{
